@@ -3,7 +3,7 @@
 ## Setup Environment - Anaconda
 
 ```
-conda create -streamlitenv10 python=3.10.15
+conda create -n streamlitenv10 python=3.10.15
 conda activate streamlitenv10
 pip install streamlit
 ```
