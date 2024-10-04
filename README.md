@@ -18,3 +18,8 @@ pip install pandas matplotlib seaborn babel
 ```
 streamlit run ecommerce_data.py
 ```
+
+## Get requirements.txt
+```
+pip freeze > requirements.txt
+```
